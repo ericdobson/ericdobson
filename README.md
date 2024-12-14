@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ericdobson
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning frontend dev.
-- 💞️ I’m looking to collaborate on larger open source projects.
+- 🌱 I’m currently learning about Next.js and Auth0.
+- 💞️ I'm tempted at times to participate in open source projects.
 - 📫 How to reach me? See the sidebar.
 
 Also, I may post a few [gists](https://gist.github.com/ericdobson).
